@@ -1,0 +1,26 @@
+{
+  "name": "hexo-additional-asset",
+  "version": "0.1.0",
+  "description": "hexo additional asset",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newroc/hexo-additional-asset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/newroc/hexo-additional-asset/issues"
+  },
+  "keywords": [
+    "hexo",
+    "asset"
+  ],
+  "author": {
+    "name": "Newroc Zhao",
+    "email": "newroc@gmail.com",
+    "url": "http://newroc.me"
+  },
+  "dependencies": {
+    "graceful-fs":"*",
+    "lodash":"*"
+  }
+}
